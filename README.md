@@ -1,2 +1,2 @@
 # dsa-practice
-Daily DSA practice from LeetCode and Codeforces
+DSA practice Sheet
